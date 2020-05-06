@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: hcls-imaging-ml-toolkit
+Version: 0.1
+Summary: Toolkit for deploying ML models on GCP leveraging Google Cloud Healthcare API.
+Home-page: https://github.com/GoogleCloudPlatform/healthcare
+Author: Google
+Author-email: noreply@google.com
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
