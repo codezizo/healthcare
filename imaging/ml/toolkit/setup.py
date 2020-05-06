@@ -35,7 +35,7 @@ REQUIRED_PACKAGES = [
     'numpy',
     # Mock is not needed for Python versions 3.3+
     'mock',
-    'grpcio',
+    'grpcio>-1.24.3',
     'tensorflow-serving-api',
 ]
 
