@@ -14,5 +14,5 @@ google-cloud-pubsub
 absl-py
 numpy
 mock
-grpcio
+grpcio>-1.24.3
 tensorflow-serving-api
