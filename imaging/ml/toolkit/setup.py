@@ -29,7 +29,7 @@ REQUIRED_PACKAGES = [
     'google-auth-httplib2',
     'google-api-python-client',
     'tensorflow',
-    'google-api-core',
+    'google-api-core[grpc]<1.17.0',
     'google-cloud-pubsub',
     'absl-py',
     'numpy',
